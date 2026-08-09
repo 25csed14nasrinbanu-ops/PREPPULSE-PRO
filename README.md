@@ -1,2 +1,20 @@
-# PREPPULSE-PRO
-PrepPulse is an AI-powered interview preparation platform offering interactive MCQs, mock interviews, flashcards, cheat sheets, and performance analytics. With instant AI feedback and progress tracking, it helps students and job seekers practice, evaluate their skills, and prepare confidently for interviews.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/102c729c-a8c0-4a76-afc3-6d5d304b4009
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

@@ -1,0 +1,8 @@
+{
+  "name": "PrepPulse - Interview Preparation & Mock Interview Suite",
+  "description": "Complete interview preparation platform featuring interactive MCQ practice across CS fundamentals, system design, HR, and aptitude, timed quizzes with detailed explanations, mock interview simulator with AI and rubric evaluations, performance analytics dashboard, flashcards, cheat sheets, and PDF report generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
